@@ -1,0 +1,64 @@
+
+
+
+
+.jumbotron2{
+    align-content: center;
+}
+
+#home{
+    background-image: url('../img/jumbotron-bkg-2.jpg');
+    margin-top: 50px;
+    text-align: center;
+  }
+
+  #list-home{
+  
+    font-size: 40px;
+
+  }
+
+  .text{
+    align-content: center;
+    justify-content: center;
+    font-size: 40px;
+    font-stretch: normal;
+  }
+
+  .h3{
+    size: 300px;
+}
+
+#list-messages{
+size: 50px;
+font-size: 50px;
+}
+
+#list-settings{
+    font-size: 35px;
+}
+
+#list-userinsight{
+    font-size: 40px;
+}
+
+#list-problem{
+    font-size: 30px;
+}
+
+#list-synopsis{
+    font-size: 30px;
+}
+
+#list-goal{
+    font-size: 40px;
+}
+
+#list-test{
+    font-size: 30px;
+}
+#list-thoughts{
+    font-size: 30px;
+}
+   
+
